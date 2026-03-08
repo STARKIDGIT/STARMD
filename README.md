@@ -17,5 +17,5 @@ A WhatsApp Multi-Device Bot inspired by Anita-V5 but with different implementati
 4. Run: `npm start`
 
 ## Deployment
+Can be deployed on Heroku, Render, etc.
 
-Similar to Anita-V5, can be deployed on Heroku, Render, etc.
